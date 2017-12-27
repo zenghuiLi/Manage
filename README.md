@@ -1,2 +1,3 @@
 # Manage
-1、bsdiff+mput android查分包制作；
+
+1、bsdiff+mput android差分包制作；
