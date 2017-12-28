@@ -12,3 +12,7 @@ if [ ${type} = "test" ];then
 elif [ ${type} = "online" ];then
 	python create_company.py "$compname" $employnum $mobile "$fullname"
 fi
+
+4、上传文件至FTP指定目录
+
+
