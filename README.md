@@ -16,3 +16,7 @@ fi
 4、上传文件至FTP指定目录
 
 5、auth
+
+6、conmysql 
+
+ps -ef | grep mysql | grep -v grep
